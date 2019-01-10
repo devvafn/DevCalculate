@@ -1,4 +1,5 @@
 # DevCalculate
 Calculator Onlen<br>
-Installer Yang format nya MSI<br>
-Untuk Project Visual Studio Saya satukan Di ZIP
+
+1. Installer Yang format nya MSI<br>
+2. Untuk Project Visual Studio Saya satukan Di ZIP
